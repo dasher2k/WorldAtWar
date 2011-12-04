@@ -1,3 +1,15 @@
 D:\WorldAtWar\ArmyEditor\obj\x86\Release\WorldAtWar.exe
 D:\WorldAtWar\ArmyEditor\obj\x86\Release\WorldAtWar.xml
 D:\WorldAtWar\ArmyEditor\obj\x86\Release\WorldAtWar.pdb
+D:\WorldAtWar\ArmyEditor\bin\Release\WorldAtWar.exe
+D:\WorldAtWar\ArmyEditor\bin\Release\WorldAtWar.pdb
+D:\WorldAtWar\ArmyEditor\bin\Release\WorldAtWar.xml
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\MainWindow.baml
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\MainWindow.g.vb
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\Application.g.vb
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\WorldAtWar_MarkupCompile.cache
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\WorldAtWar.g.resources
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\WpfApplication1.Resources.resources
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\GenerateResource.read.1.tlog
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\GenerateResource.write.1.tlog

@@ -1,0 +1,17 @@
+D:\WorldAtWar\AgileViewTester\bin\Release\AgileViewTester.exe
+D:\WorldAtWar\AgileViewTester\bin\Release\AgileViewTester.pdb
+D:\WorldAtWar\AgileViewTester\bin\Release\AgileViewTester.xml
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\ResolveAssemblyReference.cache
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\MainMenuView.baml
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\MainWindow.baml
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\MainMenuView.g.vb
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\MainWindow.g.vb
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\Application.g.vb
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester_MarkupCompile.cache
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester.g.resources
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester.Resources.resources
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\GenerateResource.read.1.tlog
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\GenerateResource.write.1.tlog
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester.exe
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester.xml
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester.pdb

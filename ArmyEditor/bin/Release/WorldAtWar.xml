@@ -6,7 +6,15 @@ WorldAtWar
 </name>
 </assembly>
 <members>
-<member name="M:WpfApplication1.Application.InitializeComponent">
+<member name="M:WpfApplication1.MainWindow.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:WpfApplication1.MainWindow">
+	<summary>
+MainWindow
+</summary>
+</member><member name="M:WpfApplication1.Application.InitializeComponent">
 	<summary>
 InitializeComponent
 </summary>
@@ -17,14 +25,6 @@ Application Entry Point.
 </member><member name="T:WpfApplication1.Application">
 	<summary>
 Application
-</summary>
-</member><member name="M:WpfApplication1.MainWindow.InitializeComponent">
-	<summary>
-InitializeComponent
-</summary>
-</member><member name="T:WpfApplication1.MainWindow">
-	<summary>
-MainWindow
 </summary>
 </member><member name="P:WpfApplication1.My.MyWpfExtension.Application">
 	<summary>

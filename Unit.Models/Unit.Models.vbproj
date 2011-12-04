@@ -7,7 +7,7 @@
     </ProductVersion>
     <SchemaVersion>
     </SchemaVersion>
-    <ProjectGuid>{211F4307-4D0F-4864-850A-EA2C5245CF33}</ProjectGuid>
+    <ProjectGuid>{8A9B8134-574B-4283-9574-1D1ABF2D0172}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>Unit.Models</RootNamespace>
     <AssemblyName>Unit.Models</AssemblyName>
@@ -64,7 +64,8 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.vb" />
+    <Compile Include="AttackModel.vb" />
+    <Compile Include="UnitModel.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -99,6 +100,16 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Core.Model\Core.Model.vbproj">
+      <Project>{54B2DAB0-23CB-417E-9292-EC5B6493C910}</Project>
+      <Name>Core.Model</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Unit.Core\Unit.Core.vbproj">
+      <Project>{FCE55734-3F67-47BA-996B-73ED73088B5D}</Project>
+      <Name>Unit.Core</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
