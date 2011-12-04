@@ -1,0 +1,3 @@
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\WorldAtWar.exe
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\WorldAtWar.xml
+D:\WorldAtWar\ArmyEditor\obj\x86\Release\WorldAtWar.pdb
