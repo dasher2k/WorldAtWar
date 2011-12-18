@@ -1,5 +1,6 @@
 ﻿Public Class InfantryAttackValue
     Implements IAttackValue
+
     Public Property RangeShort As Integer
     Public Property RangeMedium As Integer
     Public Property RangeLong As Integer

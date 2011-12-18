@@ -11,9 +11,9 @@ D:\WorldAtWar\AgileTester\obj\Release\AgileTester.pdb
 D:\WorldAtWar\AgileTester\bin\Release\Unit.Models.dll
 D:\WorldAtWar\AgileTester\bin\Release\Unit.Models.pdb
 D:\WorldAtWar\AgileTester\bin\Release\Unit.Models.xml
-D:\WorldAtWar\AgileTester\bin\Release\Core.Model.dll
 D:\WorldAtWar\AgileTester\bin\Release\Unit.Core.dll
-D:\WorldAtWar\AgileTester\bin\Release\Core.Model.pdb
-D:\WorldAtWar\AgileTester\bin\Release\Core.Model.xml
 D:\WorldAtWar\AgileTester\bin\Release\Unit.Core.pdb
 D:\WorldAtWar\AgileTester\bin\Release\Unit.Core.xml
+D:\WorldAtWar\AgileTester\bin\Release\Core.BaseClasses.dll
+D:\WorldAtWar\AgileTester\bin\Release\Core.BaseClasses.pdb
+D:\WorldAtWar\AgileTester\bin\Release\Core.BaseClasses.xml

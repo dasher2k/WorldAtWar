@@ -9,11 +9,11 @@ D:\WorldAtWar\Unit.ViewModels\obj\Release\Unit.ViewModels.dll
 D:\WorldAtWar\Unit.ViewModels\obj\Release\Unit.ViewModels.xml
 D:\WorldAtWar\Unit.ViewModels\obj\Release\Unit.ViewModels.pdb
 D:\WorldAtWar\Unit.ViewModels\bin\Release\Unit.Models.dll
-D:\WorldAtWar\Unit.ViewModels\bin\Release\Core.Model.dll
 D:\WorldAtWar\Unit.ViewModels\bin\Release\Unit.Core.dll
 D:\WorldAtWar\Unit.ViewModels\bin\Release\Unit.Models.pdb
 D:\WorldAtWar\Unit.ViewModels\bin\Release\Unit.Models.xml
-D:\WorldAtWar\Unit.ViewModels\bin\Release\Core.Model.pdb
-D:\WorldAtWar\Unit.ViewModels\bin\Release\Core.Model.xml
 D:\WorldAtWar\Unit.ViewModels\bin\Release\Unit.Core.pdb
 D:\WorldAtWar\Unit.ViewModels\bin\Release\Unit.Core.xml
+D:\WorldAtWar\Unit.ViewModels\bin\Release\Core.BaseClasses.dll
+D:\WorldAtWar\Unit.ViewModels\bin\Release\Core.BaseClasses.pdb
+D:\WorldAtWar\Unit.ViewModels\bin\Release\Core.BaseClasses.xml

@@ -1,7 +1,7 @@
 ﻿Imports System.Collections
 Imports System.ComponentModel
 
-Imports Core.Model
+Imports Core.BaseClasses
 Imports Unit.Core
 
 Public Class AttackModel

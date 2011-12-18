@@ -6,13 +6,29 @@ AgileViewTester
 </name>
 </assembly>
 <members>
-<member name="M:AgileViewTester.MainWindow.InitializeComponent">
+<member name="M:AgileViewTester.NationEditView.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:AgileViewTester.NationEditView">
+	<summary>
+NationEditView
+</summary>
+</member><member name="M:AgileViewTester.MainWindow.InitializeComponent">
 	<summary>
 InitializeComponent
 </summary>
 </member><member name="T:AgileViewTester.MainWindow">
 	<summary>
 MainWindow
+</summary>
+</member><member name="M:AgileViewTester.NationMenuView.InitializeComponent">
+	<summary>
+InitializeComponent
+</summary>
+</member><member name="T:AgileViewTester.NationMenuView">
+	<summary>
+NationMenuView
 </summary>
 </member><member name="M:AgileViewTester.MainMenuView.InitializeComponent">
 	<summary>

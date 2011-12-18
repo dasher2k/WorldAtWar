@@ -15,3 +15,7 @@ D:\WorldAtWar\AgileViewTester\obj\x86\Release\GenerateResource.write.1.tlog
 D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester.exe
 D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester.xml
 D:\WorldAtWar\AgileViewTester\obj\x86\Release\AgileViewTester.pdb
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\NationEditView.baml
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\NationMenuView.baml
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\NationEditView.g.vb
+D:\WorldAtWar\AgileViewTester\obj\x86\Release\NationMenuView.g.vb

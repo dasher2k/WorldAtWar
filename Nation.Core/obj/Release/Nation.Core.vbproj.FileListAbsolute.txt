@@ -1,0 +1,10 @@
+D:\WorldAtWar\Nation.Core\bin\Release\Nation.Core.dll
+D:\WorldAtWar\Nation.Core\bin\Release\Nation.Core.pdb
+D:\WorldAtWar\Nation.Core\bin\Release\Nation.Core.xml
+D:\WorldAtWar\Nation.Core\obj\Release\ResolveAssemblyReference.cache
+D:\WorldAtWar\Nation.Core\obj\Release\Nation.Core.Resources.resources
+D:\WorldAtWar\Nation.Core\obj\Release\GenerateResource.read.1.tlog
+D:\WorldAtWar\Nation.Core\obj\Release\GenerateResource.write.1.tlog
+D:\WorldAtWar\Nation.Core\obj\Release\Nation.Core.dll
+D:\WorldAtWar\Nation.Core\obj\Release\Nation.Core.xml
+D:\WorldAtWar\Nation.Core\obj\Release\Nation.Core.pdb

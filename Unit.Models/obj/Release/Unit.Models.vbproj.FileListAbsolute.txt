@@ -11,6 +11,6 @@ D:\WorldAtWar\Unit.Models\obj\Release\Unit.Models.pdb
 D:\WorldAtWar\Unit.Models\bin\Release\Unit.Core.dll
 D:\WorldAtWar\Unit.Models\bin\Release\Unit.Core.pdb
 D:\WorldAtWar\Unit.Models\bin\Release\Unit.Core.xml
-D:\WorldAtWar\Unit.Models\bin\Release\Core.Model.dll
-D:\WorldAtWar\Unit.Models\bin\Release\Core.Model.pdb
-D:\WorldAtWar\Unit.Models\bin\Release\Core.Model.xml
+D:\WorldAtWar\Unit.Models\bin\Release\Core.BaseClasses.dll
+D:\WorldAtWar\Unit.Models\bin\Release\Core.BaseClasses.pdb
+D:\WorldAtWar\Unit.Models\bin\Release\Core.BaseClasses.xml
