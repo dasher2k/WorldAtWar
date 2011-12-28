@@ -11,10 +11,10 @@ Imports System.Windows
 
 ' Review the values of the assembly attributes
 
-<Assembly: AssemblyTitle("WpfApplication1")> 
+<Assembly: AssemblyTitle("ArmyEditor")> 
 <Assembly: AssemblyDescription("")> 
 <Assembly: AssemblyCompany("Microsoft")> 
-<Assembly: AssemblyProduct("WpfApplication1")> 
+<Assembly: AssemblyProduct("ArmyEditor")> 
 <Assembly: AssemblyCopyright("Copyright @ Microsoft 2011")> 
 <Assembly: AssemblyTrademark("")> 
 <Assembly: ComVisible(false)>
@@ -42,7 +42,7 @@ Imports System.Windows
 
 
 'The following GUID is for the ID of the typelib if this project is exposed to COM
-<Assembly: Guid("204fc950-3ff7-48ce-ac34-395df227d852")> 
+<Assembly: Guid("940099ae-0c98-4a15-86a5-90a550d60718")> 
 
 ' Version information for an assembly consists of the following four values:
 '

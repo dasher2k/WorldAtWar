@@ -102,10 +102,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Core.BaseClasses\Core.BaseClasses.vbproj">
-      <Project>{DBC9C3B4-3C69-4C40-9008-7D7A25C66023}</Project>
-      <Name>Core.BaseClasses</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Unit.Models\Unit.Models.vbproj">
       <Project>{8A9B8134-574B-4283-9574-1D1ABF2D0172}</Project>
       <Name>Unit.Models</Name>

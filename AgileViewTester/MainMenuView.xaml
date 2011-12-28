@@ -3,8 +3,8 @@
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     Title="MainMenuView" Height="300" Width="300">
     <Grid>
-        <Button Content="Edit Nation" Height="23" HorizontalAlignment="Left" Margin="72,21,0,0" Name="btnEditNation" VerticalAlignment="Top" Width="131" />
-        <Button Content="Import Datafiles" Height="23" HorizontalAlignment="Left" Margin="72,70,0,0" Name="btnImportDataFiles" VerticalAlignment="Top" Width="131" />
-        <Button Content="Export Datafiles" Height="23" HorizontalAlignment="Left" Margin="72,116,0,0" Name="btnExportDataFiles" VerticalAlignment="Top" Width="131" />
+        <Button Content="Edit Nations" Height="23" HorizontalAlignment="Left" Margin="72,21,0,0" Name="btnEditNations" VerticalAlignment="Top" Width="131" />
+        <Button Content="Import Datafiles" Height="23" HorizontalAlignment="Left" Margin="72,113,0,0" Name="btnImportDataFiles" VerticalAlignment="Top" Width="131" />
+        <Button Content="Export Datafiles" Height="23" HorizontalAlignment="Left" Margin="72,65,0,0" Name="btnExportDataFiles" VerticalAlignment="Top" Width="131" />
     </Grid>
 </Window>

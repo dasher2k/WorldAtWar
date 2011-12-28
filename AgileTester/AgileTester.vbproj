@@ -22,7 +22,9 @@
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
     <DocumentationFile>AgileTester.xml</DocumentationFile>
-    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugType>pdbonly</DebugType>
@@ -31,7 +33,9 @@
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
     <DocumentationFile>AgileTester.xml</DocumentationFile>
-    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <NoWarn>
+    </NoWarn>
+    <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
   </PropertyGroup>
   <PropertyGroup>
     <OptionExplicit>On</OptionExplicit>
@@ -40,7 +44,7 @@
     <OptionCompare>Binary</OptionCompare>
   </PropertyGroup>
   <PropertyGroup>
-    <OptionStrict>Off</OptionStrict>
+    <OptionStrict>On</OptionStrict>
   </PropertyGroup>
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
@@ -105,9 +109,29 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Unit.Models\Unit.Models.vbproj">
-      <Project>{8A9B8134-574B-4283-9574-1D1ABF2D0172}</Project>
-      <Name>Unit.Models</Name>
+    <ProjectReference Include="..\AgileViewTester\AgileViewTester.vbproj">
+      <Project>{B5285F38-9C91-46AD-9953-285392C5AFBC}</Project>
+      <Name>AgileViewTester</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ArmyEditor.ViewModels\ArmyEditor.ViewModels.vbproj">
+      <Project>{BDDBBB84-756B-4D46-ABF8-3049FB56298E}</Project>
+      <Name>ArmyEditor.ViewModels</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Data.Models\Datalayer.Models.vbproj">
+      <Project>{4568D9E0-D72C-4C7F-84EF-61693A62A270}</Project>
+      <Name>Datalayer.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DataLayer\DataLayer.Core.vbproj">
+      <Project>{D6AB21B4-B6D7-4C24-BA43-7969BD8C55EC}</Project>
+      <Name>DataLayer.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.BaseClasses\Framework.BaseClasses.vbproj">
+      <Project>{3C011E34-1BBE-41F8-B312-767070E9EEDD}</Project>
+      <Name>Framework.BaseClasses</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Framework.Models\Framework.Models.vbproj">
+      <Project>{6C147369-E7BA-413B-9178-BBA77D636AF0}</Project>
+      <Name>Framework.Models</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />

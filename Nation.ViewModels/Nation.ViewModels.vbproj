@@ -100,16 +100,6 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Core.BaseClasses\Core.BaseClasses.vbproj">
-      <Project>{DBC9C3B4-3C69-4C40-9008-7D7A25C66023}</Project>
-      <Name>Core.BaseClasses</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Nation.Models\Nation.Models.vbproj">
-      <Project>{C5DB586B-9495-419A-B950-DAD74DAEC4FE}</Project>
-      <Name>Nation.Models</Name>
-    </ProjectReference>
-  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
