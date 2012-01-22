@@ -7,12 +7,12 @@
     </ProductVersion>
     <SchemaVersion>
     </SchemaVersion>
-    <ProjectGuid>{A059A615-A537-46C9-B2BB-7B6D83C06101}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>AgileTester</RootNamespace>
-    <AssemblyName>AgileTester</AssemblyName>
+    <ProjectGuid>{BDDBBB84-756B-4D46-ABF8-3049FB56298E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <RootNamespace>ArmyEditor.ViewModels</RootNamespace>
+    <AssemblyName>ArmyEditor.ViewModels</AssemblyName>
     <FileAlignment>512</FileAlignment>
-    <MyType>Console</MyType>
+    <MyType>Windows</MyType>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -21,7 +21,7 @@
     <DefineDebug>true</DefineDebug>
     <DefineTrace>true</DefineTrace>
     <OutputPath>bin\Debug\</OutputPath>
-    <DocumentationFile>AgileTester.xml</DocumentationFile>
+    <DocumentationFile>ArmyEditor.ViewModels.xml</DocumentationFile>
     <NoWarn>
     </NoWarn>
     <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
@@ -32,7 +32,7 @@
     <DefineTrace>true</DefineTrace>
     <Optimize>true</Optimize>
     <OutputPath>bin\Release\</OutputPath>
-    <DocumentationFile>AgileTester.xml</DocumentationFile>
+    <DocumentationFile>ArmyEditor.ViewModels.xml</DocumentationFile>
     <NoWarn>
     </NoWarn>
     <WarningsAsErrors>41999,42016,42017,42018,42019,42020,42021,42022,42032,42036</WarningsAsErrors>
@@ -49,13 +49,9 @@
   <PropertyGroup>
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
-  <PropertyGroup>
-    <StartupObject>Sub Main</StartupObject>
-  </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Deployment" />
     <Reference Include="System.Xml" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -72,12 +68,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Agile.vb" />
-    <Compile Include="Allies.vb" />
-    <Compile Include="Ally.vb" />
-    <Compile Include="Enums.vb" />
-    <Compile Include="IData.vb" />
-    <Compile Include="IValidate.vb" />
+    <Compile Include="NationEditViewModel.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
@@ -93,11 +84,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="Nation.vb" />
-    <Compile Include="NationData.vb" />
-    <Compile Include="Nations.vb" />
-    <Compile Include="NotificationMessage.vb" />
-    <Compile Include="UnitData.vb" />
   </ItemGroup>
   <ItemGroup>
     <EmbeddedResource Include="My Project\Resources.resx">
@@ -119,22 +105,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\AgileViewTester\AgileViewTester.vbproj">
-      <Project>{B5285F38-9C91-46AD-9953-285392C5AFBC}</Project>
-      <Name>AgileViewTester</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\ArmyEditor.ViewModels\ArmyEditor.ViewModels.vbproj">
-      <Project>{BDDBBB84-756B-4D46-ABF8-3049FB56298E}</Project>
-      <Name>ArmyEditor.ViewModels</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\Data.Models\Datalayer.Models.vbproj">
-      <Project>{4568D9E0-D72C-4C7F-84EF-61693A62A270}</Project>
-      <Name>Datalayer.Models</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\DataLayer\DataLayer.Core.vbproj">
-      <Project>{D6AB21B4-B6D7-4C24-BA43-7969BD8C55EC}</Project>
-      <Name>DataLayer.Core</Name>
-    </ProjectReference>
     <ProjectReference Include="..\Framework.BaseClasses\Framework.BaseClasses.vbproj">
       <Project>{3C011E34-1BBE-41F8-B312-767070E9EEDD}</Project>
       <Name>Framework.BaseClasses</Name>

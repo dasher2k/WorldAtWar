@@ -40,18 +40,18 @@ Public Class DataModelFileController
     Private Function GetFileName() As String
         Dim fileName As String = ""
 
-        Select Case Me.dataModelType
-            'Case GetType(Abilities)
-            '                fileName = "Abilities.xml"
-            Case GetType(NationData)
-                fileName = "Nations.xml"
-                'Case Core.DataSetType.Platoon
-                '    fileName = "Platoons.xml"
-                'Case Core.DataSetType.Unit
-                '    fileName = "Units.xml"
-            Case Else
-                Throw New ApplicationException("No filename set for dataset type.")
-        End Select
+        'Select Case Me.dataModelType
+        '    'Case GetType(Abilities)
+        '    '                fileName = "Abilities.xml"
+        '    Case GetType(NationData)
+        '        fileName = "Nations.xml"
+        '        'Case Core.DataSetType.Platoon
+        '        '    fileName = "Platoons.xml"
+        '        'Case Core.DataSetType.Unit
+        '        '    fileName = "Units.xml"
+        '    Case Else
+        '        Throw New ApplicationException("No filename set for dataset type.")
+        'End Select
 
         Return fileName
     End Function

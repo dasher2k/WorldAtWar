@@ -1,7 +1,7 @@
 ﻿Imports System.Xml.Serialization
 
-Public Class NationData
-    Implements IDataModel
+'Public Class NationData
+'    Implements IDataModel
 
-    Property Nations As New List(Of Nation)
-End Class
+'    Property Nations As New List(Of Nation)
+'End Class

@@ -64,6 +64,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Agile.vb" />
     <Compile Include="Ally.vb" />
     <Compile Include="IDataModel.vb" />
     <Compile Include="Nation.vb" />
