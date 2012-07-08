@@ -1,4 +1,0 @@
-D:\WorldAtWar\Unit.Interface\obj\Release\ResolveAssemblyReference.cache
-D:\WorldAtWar\Unit.Interface\obj\Release\Unit.Interface.Resources.resources
-D:\WorldAtWar\Unit.Interface\obj\Release\GenerateResource.read.1.tlog
-D:\WorldAtWar\Unit.Interface\obj\Release\GenerateResource.write.1.tlog
